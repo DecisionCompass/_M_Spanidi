@@ -1,21 +1,12 @@
 # Decision Compass Website
 
-GitHub Pages ready static website for Decision Compass.
+GitHub Pages-ready bilingual static website for Decision Compass.
 
-## Files
-- `index.html`
-- `styles.css`
-- `script.js`
-- `assets/` with the DC logo, Marianna photos, and social icons
+## Publish
+1. Upload the contents of this folder directly to the repository root.
+2. In **Settings → Pages**, choose **Deploy from a branch**.
+3. Select `main` and `/ (root)`.
 
-## Publish on GitHub Pages
-1. Upload all files to the root of a public GitHub repository.
-2. Go to **Settings → Pages**.
-3. Select **Deploy from a branch**.
-4. Branch: `main`, folder: `/ (root)`.
-5. Save.
+All booking links point to https://tidycal.com/deccompass.
 
-All booking/free session buttons point to: https://tidycal.com/deccompass
-
-
-This version includes five bilingual coaching program cards, all linked to TidyCal.
+Included: English/Greek switch, responsive mobile menu, five coaching programs, SEO metadata, structured data, sitemap, robots.txt, favicons and optimized image loading.
